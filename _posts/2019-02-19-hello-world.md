@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 date: 2019-02-19 14:00:00
-categories: blog,
+categories: blog
 ---
 
 'S ann airson adhbharan deuchainn a tha am post seo!
