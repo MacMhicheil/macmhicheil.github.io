@@ -4,7 +4,7 @@ title: Mum Dheidhinn
 permalink: /mu-dheidhinn/
 ---
 
-![](/images/Cristean_MacMhicheil.png){:.index-image}
+![](/images/Cristean_MacMhicheil.png =200){:.index-image}
 
 Is mise Crìstean MacMhìcheil. Tha mi nam chòdaiche agus nam dheasaiche am blog naidheachd LCDTQ+ Gèidh.uk.
 
