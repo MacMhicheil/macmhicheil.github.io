@@ -25,7 +25,7 @@ Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
 
-###About Me
+### About Me
 
 My name is Chris Mitchell. I am the coder and editor of the LGBTQ+ news blog Geidh.uk.
 
