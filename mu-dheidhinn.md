@@ -4,6 +4,12 @@ title: Mum Dheidhinn
 permalink: /mu-dheidhinn/
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      ![](/images/Cristean_MacMhicheil.png){:.index-image"}
+    </div>
+    <div class="col-md-8">
 Is mise Crìstean MacMhìcheil. Tha mi nam chòdaiche agus nam dheasaiche am blog naidheachd LCDTQ+ Gèidh.uk.
 
 Thòisich mi ag ionnsachadh na Gàidhlig nuair a bha mi nam oileanach aig Acadamaidh Inbhir Pheofharain. Ann an 2005/6 rinn mi CertHE Cùrsa Comais aig Colaiste Inbhir Nis. Eadar 2006 agus 2010 bha mi nam oileanach aig Sabhal Mòr Ostaig san Eilean Sgitheanach a’ dèanamh Ceum BA (le Urram) ann an Gàidhlig ’s Leasachadh. Mar phàirt dhen cheum agam rinn mi modalan coimpiutaireachd agus naidheachdas.
@@ -25,7 +31,7 @@ Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
 
-![](/images/Cristean_MacMhicheil.png){:.index-image width="250px"}
+
 
 ### About Me
 
@@ -48,3 +54,8 @@ Twitter (Geidh.uk): [@GeidhUK](https://www.twitter.com/GeidhUK)
 Twitter (Personal): [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Email: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
+
+    </div>
+  </div>
+</div>
+
