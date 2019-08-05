@@ -1,9 +1,9 @@
 ---
-title: Seachdamh beta de iOS 9.3 ri fhaoitinn
+title: Apple air crìoch a chur air an loidhne AirPort aca
 author: Crìstean MacMhìcheil
 type: post
-date: 2016-03-15 05:44:00
-image: /images/2016-03-15-seachdamh-beta-de-ios-9-3-ri-fhaoitinn.jpg
+date: 2018-04-29 18:41:00
+image: /images/2018-04-29-apple-air-crioch-a-chur-air-an-loidhne-airport-aca.jpg
 comments: true
 categories:
 - apple
