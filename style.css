@@ -10,12 +10,14 @@ html, html[data-theme="light"], {
   --light-text-color: hsl(0, 0%, 35%);
   --main-background-color: hsl(0, 5%, 95%);
   --main-text-color: hsl(0, 0%, 0%);
+  --main-link-color: {{ site.featured-color }};
 }
 
 html[data-theme="dark"] {
   --light-text-color: hsl(0, 0%, 60%);
   --main-background-color: hsl(0, 0%, 10%);
   --main-text-color: hsl(0, 10%, 80%);
+  --main-link-color: orange;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -26,6 +28,10 @@ html[data-theme="dark"] {
 
 body {
     background-color: var(--main-background-color);
+}
+
+a {
+  color: var(--main-link-color)
 }
 
 /* Center Post Images */
@@ -77,13 +83,14 @@ body {
 	background-color: {{ site.featured-color }};
 }
 
-a{
+/* a{
   color: {{ site.featured-color }};
 }
 
 a[data-theme="dark"]{
   color: var(--light-text-color);
 }
+*/
 
 .page-content{
   margin-top: 25px;
