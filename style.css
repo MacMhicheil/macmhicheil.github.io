@@ -82,7 +82,7 @@ a{
 }
 
 a[data-theme="dark"]{
-  color:  var(--light-text-color);
+  color: var(--light-text-color);
 }
 
 .page-content{
