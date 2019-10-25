@@ -14,7 +14,7 @@ html, html[data-theme="light"], {
 
 html[data-theme="dark"] {
   --light-text-color: hsl(0, 0%, 60%);
-  --main-background-color: hsl(0, 0%, 10%);
+  --main-background-color: #333;
   --main-text-color: hsl(0, 10%, 80%);
 }
 
