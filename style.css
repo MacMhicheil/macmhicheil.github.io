@@ -81,6 +81,10 @@ a{
   color: {{ site.featured-color }};
 }
 
+a[data-theme="light"]{
+  color:  var(--light-text-color);
+}
+
 .page-content{
   margin-top: 25px;
 }
