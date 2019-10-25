@@ -3,11 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Dachaigh
+title: Blog
 ---
 
 <div class="container">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
+      {% unless post.categories contains 'tachartasan' %}
   <div class="row">
     <div class="col-md-3">
       <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
@@ -26,6 +27,7 @@ title: Dachaigh
     </div>
   </div>
   <hr/>
+  {% endunless %}
     {% endfor %}
     <!-- Pagination -->
     <nav>
