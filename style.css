@@ -81,7 +81,7 @@ a{
   color: {{ site.featured-color }};
 }
 
-a[data-theme="light"]{
+a[data-theme="dark"]{
   color:  var(--light-text-color);
 }
 
