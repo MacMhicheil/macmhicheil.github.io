@@ -7,7 +7,7 @@ title: Dachaigh
 ---
 
 <div class="container">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
   <div class="row">
     <div class="col-md-3">
       <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
