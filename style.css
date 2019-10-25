@@ -24,6 +24,10 @@ html[data-theme="dark"] {
     }
 }
 
+body {
+    background-color: var(--light-text-color);
+}
+
 /* Center Post Images */
 .brand-image, .post-image {
     margin: 0 auto;
