@@ -49,23 +49,24 @@
           <li class="nav-item">
             <a class="nav-link" href="https://geidh.uk/briathrachas-lcdt" title="Liosta de bhriathrachas Gàidhlig LCDTQ+ &#10;A list of Gaelic LGBTQ+ vocabulary">Briathrachas LCDQT+</a>
           </li>
-          <li class="nav-item">
+          <!--<li class="nav-item">
             <a class="nav-link" href="https://tachartasan.info" title="Iùl-lann de thachartasan a bhuinneas ris a' Ghàidhlig no a' Ghàidhealtachd &#10;A directory of events relating to Gaelic or the Scottish Highlands">Tachartasan.info</a>
-          </li>
+          </li>-->
           <li class="nav-item">
             <a class="nav-link" href="https://atug.uk" title="A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple &#10;Bringing you the latest Apple tech news">Tachartasan.info</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/lorg">Lorg</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Barrachd
+          </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.baseurl }}/mu-dheidhinn">Mu Dheidhinn</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/cuir-fios">Cuir Fios</a>
+            <a class="dropdown-item" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
+            </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/mu-dheidhinn" title="Mu dheidhinn &#10;About">Mu Dheidhinn</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/cuir-fios" title="Cuir brath do Chrìstean">Cuir Fios</a>
-          </li>
-          <li>
-            <a class="nav-link" id="theme-toggle" onclick="modeSwitcher()"></a>
+            <a class="nav-link" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
           </li>
         </ul>
       </div>
