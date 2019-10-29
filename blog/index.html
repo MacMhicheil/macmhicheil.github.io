@@ -8,7 +8,6 @@ title: Blog
 
 <div class="container">
     {% for post in paginator.posts %}
-      {% unless post.categories contains 'tachartasan' %}
   <div class="row">
     <div class="col-md-3">
       <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
@@ -27,7 +26,6 @@ title: Blog
     </div>
   </div>
   <hr/>
-  {% endunless %}
     {% endfor %}
     <!-- Pagination -->
     <nav>
