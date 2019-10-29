@@ -21,17 +21,17 @@ html[data-theme="dark"] {
 
 /* Set Dark Mode background color */
 body {
-    background-color: var(--main-background-color);
+    background-color: var(--dark-mode-background-color);
 }
 
 /* Set Dark Mode text color */
 h1, h2, h3, h4, h5, h6, p {
-  color: var(--main-text-color);
+  color: var(--dark-mode-text-color);
 }
 
 /* Set hyperlink color to the site's featured color */
 a {
-  color: var(--main-link-color)
+  color: {{ site.featured-color }};
 }
 
 /* Set the color of the divider between articles */
