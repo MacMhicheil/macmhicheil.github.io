@@ -46,5 +46,3 @@ Twitter (Geidh.uk): [@GeidhUK](https://www.twitter.com/GeidhUK)
 Twitter (Personal): [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Email: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
-
-'S ann airson adhbharan deuchainn a tha an loidhne seo!!
