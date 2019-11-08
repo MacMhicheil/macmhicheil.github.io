@@ -19,9 +19,9 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 #### Cuir Fios
 
-{% include social.html %}
-
 'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugam ach mura h-eil thu airson an cleachdadh, 's urrainn dhut post-d a chur thugam le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
+
+{% include social.html %}
 
 ### About Me
 
@@ -39,6 +39,6 @@ I am a vegan.
 
 #### Contact Me
 
-{% include social.html %}
-
 Twitter or Instagram are the best ways to get in touch, but if you prefer you can send me an email by completing [this form]({{ site.baseurl }}/cuir-fios).
+
+{% include social.html %}
