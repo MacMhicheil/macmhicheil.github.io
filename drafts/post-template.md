@@ -6,8 +6,7 @@ date: 2019-
 image: /images/.jpg
 comments: true
 categories:
--
-- naidheachdan
+- blog
 tags:
 comments: true
 ---
