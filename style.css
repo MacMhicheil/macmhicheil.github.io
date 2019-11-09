@@ -80,7 +80,7 @@ a {
 
 /* Section divider allowing for more flexible styling compared to an hr line */
 .section-divider {
-  /*background: {{ site.featured-color }}; */
+  background: c0c0c0;
   margin: 30px 0px;
   width: 100%;
 }
