@@ -1,6 +1,6 @@
 ---
 layout: category
-title: apple
+title: Apple
 category: apple
 permalink: /roinn-seorsa/apple/
 ---
