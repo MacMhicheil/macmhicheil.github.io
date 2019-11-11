@@ -2,5 +2,5 @@
 layout: category
 title: Gàidhlig
 category: Gàidhlig
-permalink: /blog/gaidhlig/
+permalink: /blog/roinn-seorsa/gaidhlig/
 ---

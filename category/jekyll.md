@@ -2,5 +2,5 @@
 layout: category
 title: Jekyll
 category: jekyll
-permalink: /blog/jekyll/
+permalink: /blog/roinn-seorsa/jekyll/
 ---
