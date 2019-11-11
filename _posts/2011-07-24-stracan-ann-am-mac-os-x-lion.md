@@ -2,7 +2,9 @@
 layout: post
 title: Stràcan ann am Mac OS X 10.7 Lion
 date: 2011-07-24 12:43:24
-categories: [gaidhlig, apple]
+categories:
+- Gàidhlig
+- apple
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/stracan_mac_os_lion.jpeg
 ---
 
