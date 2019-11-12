@@ -1,30 +1,30 @@
 - title: <i class="fas fa-home"></i>
   url: /
-  description: Pròiseacatan air a bheil mi ag obair&#013Projects I am working on
+  description: Pròiseacatan air a bheil mi ag obair&#013;Projects I am working on
 
 - title: Blog
   url: /blog
-  description: Blog Chrìstein&#013Chris' blog
+  description: Blog Chrìstein&#013;Chris' blog
 
 - title: Gèidh.uk
   url: https://geidh.uk/
-  description: A' toirt thugaibh na naidheachdan LCDTQ+ as ùire le fòcas àraidh air naidheachd Albannach&#013Gaelic LGBTQ+ new service
+  description: A' toirt thugaibh na naidheachdan LCDTQ+ as ùire le fòcas àraidh air naidheachd Albannach&#013;Gaelic LGBTQ+ new service
   external: true
 
 - title: Briathrachas LCDTQE+
   url: https://geidh.uk/briathrachas-lcdt
-  description: Liosta de bhriathrachas Gàidhlig LCDTQ+&#013A list of Gaelic LGBTQ+ vocabulary
+  description: Liosta de bhriathrachas Gàidhlig LCDTQ+&#013;A list of Gaelic LGBTQ+ vocabulary
   external: true
 
 - title: An t-Ubhal-ghort
   url: https://atug.uk/
-  description: A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple&#013Bringing you the latest Apple tech news
+  description: A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple&#013;Bringing you the latest Apple tech news
   external: true
 
 - title: Mu Dheidhinn
   url: /mu-dheidhinn
-  description: Mu dheidhinn Crìstean&#013About Chris
+  description: Mu dheidhinn Crìstean&#013;About Chris
 
 - title: Lorg
   url: /lorg
-  description: Lorg sna postaichean&#013Search the blog posts
+  description: Lorg sna postaichean&#013;Search the blog posts
