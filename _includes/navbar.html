@@ -18,7 +18,7 @@
           </div>
       </li>
       {% elseif entry.external contains 'true' %}
-      <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ entry.url }}">{{ entry.title }}</a></li>
       {% else %}
       <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
       {% endif %}
