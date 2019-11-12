@@ -2,5 +2,5 @@
 layout: category
 title: Codachadh
 category: codachadh
-permalink: /blog/codachadh/
+permalink: /roinn-seorsa/codachadh/
 ---
