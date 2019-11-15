@@ -2,8 +2,8 @@
 title: Obair-taighe
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-11-11 18:30:00
-image: /images/.jpg
+date: 2019-11-16 08:30:00
+image: /images/2019-11-16-obair-taighe.jpg
 comments: true
 categories:
 - codachadh
