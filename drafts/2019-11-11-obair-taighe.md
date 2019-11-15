@@ -19,7 +19,7 @@ Tha mi air an seachdain gu leth mu dheireadh a chosg air còd Geidh.uk a sgiobla
 
 Mar phàirt dhen sgioblachadh seo tha mi air an còd a thoirt gu bun-tomhas gus an gabh a chleachdadh  air làraichean-lìn diofraichte gun a bhith ga dheasachadh gu mòr.
 
-Ma tha neach sam bith agaibh airson a chleachdadh gus blog Jekyll [^1] a chruthachadh dhaibh fhèin, tha mi air teamplaid a chur suas an-seo air GitHub a ghabhas a chleachdadh no a dheasachadh an-asgaidh. Tha mi air an còd ùr a chur an gnìomh mar-thà aig [Geidh.uk](https://geidh.uk/), [AtUG.uk](https://atug.uk/) agus [mo bhlog](https://macmhicheil.uk/blog/) ma tha sibh airson a fhaicinn air làrach-lìn beò.
+Ma tha neach sam bith agaibh airson a chleachdadh gus blog Jekyll [^1] a chruthachadh dhaibh fhèin, tha mi air [teamplaid a chur suas an-seo air GitHub](https://github.com/MacMhicheil/Simple-Jekyll-Blog-Theme) a ghabhas a chleachdadh no a dheasachadh an-asgaidh. Tha mi air an còd ùr a chur an gnìomh mar-thà aig [Geidh.uk](https://geidh.uk/), [AtUG.uk](https://atug.uk/) agus [mo bhlog](https://macmhicheil.uk/blog/) ma tha sibh airson a fhaicinn air làrach-lìn beò.
 
 Nuair a bha mi ag obair air an teamplaid, thòisich mi a' smaoineachadh air duilleag-dhachaigh Geidh.uk ath-leasachadh gus am bi e nas coltaiche ri làrach-lìn naidheachd seach mar bhlog thradaiseanta.
 
