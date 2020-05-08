@@ -3,7 +3,7 @@ layout: post
 title: Suidheachadh na Gàidhlig mar locale ann an macOS
 date: 2018-05-03 14:08:27
 categories:
-- Gàidhlig
+- gaidhlig
 - apple
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/mac_devices.jpg
 ---
