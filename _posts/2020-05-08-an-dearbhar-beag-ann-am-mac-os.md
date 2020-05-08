@@ -3,7 +3,7 @@ title: An Dearbhair Beag ann am MacOS
 author: Crìstean MacMhìcheil
 type: post
 date: 2020-05-08
-image: /images/2020-05-08-an-dearbhar-beag-ann-am-mac-os.jpg
+image: /images/2020-05-08-an-dearbhar-beag-ann-am-mac-os.png
 comments: true
 categories:
 - apple
