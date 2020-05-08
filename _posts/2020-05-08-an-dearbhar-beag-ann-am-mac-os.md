@@ -12,7 +12,7 @@ tags:
 comments: true
 ---
 
-Tha an Dearbhair Beag ’na dhearbhair-litreachaidh a tha stèidhichte air stòr-dàta nam faclan a tha san Fhaclair Bheag agus is esan an dearbhair as motha a tha ri fhaighinn aig an àm seo. Tha e air a fhilleadh ann an tionndaidhean Gàidhlig na prògraman LibreOffice, OpenOffice agus Firefox o thùs. Is e adhbhar am post seo ge-tà sealltainn dhut mar a ghabhas a chleachdadh le taghadh nas fharsainge de phrògraman ann am MacOS.
+Tha an Dearbhair Beag ’na dhearbhair-litreachaidh a tha stèidhichte air stòr-dàta nam faclan a tha san Fhaclair Bheag agus is esan an dearbhair as motha a tha ri fhaighinn aig an àm seo. Tha e air a fhilleadh ann an tionndaidhean Gàidhlig de na prògraman LibreOffice, OpenOffice agus Firefox o thùs. Is e adhbhar am post seo ge-tà sealltainn dhut mar a ghabhas a chleachdadh le taghadh nas fharsainge de phrògraman ann am MacOS.
 
 <!--more-->
 
