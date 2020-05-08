@@ -47,3 +47,5 @@ An uairsin, tha thu deiseil airson an dearbhair fhèin a stàladh.
 4. Dùin a’ bhogsa Spelling and Grammar.
 5. Faodaidh tu tòiseachadh air sgrìobhadh.
 6. Chi thu loidhne dearg fo fhaclan ceàrr agus faodaidh tu brùthadh orra leis a’putan-lucha deas gus an ceartachadh. Air neo faodaidh tu an sgrìobhainn air fad a cheartachadh le bhith a’ fosgladh Spelling and Grammar a-rithist (ceum 2).
+
+Gu mì-fhortanach, chan obraich e leis a h-uile prògram, MS Word mar eisimpleir, ach bu chòir dha obrachadh anns a' chuid as motha de na prògaman a bhios a' cleachdadh dearbhair MacOS fhèin.
