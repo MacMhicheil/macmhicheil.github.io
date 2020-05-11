@@ -5,7 +5,7 @@ date: 2018-05-03 14:08:27
 
 title: Suidheachadh na Gàidhlig mar locale ann an macOS
 
-image: /images/mac_devices.jpg
+image: /images/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.jpg
 
 image-caption:
 
@@ -43,16 +43,16 @@ Mar seo:
 
 (‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 1](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0157.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 1](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-01.png){: .post-image }
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 2](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0158.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 2](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-02.png){: .post-image }
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 3](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0159.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 3](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-03.png){: .post-image }
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 4](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0160.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 4](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-04.png){: .post-image }
 
-![Suidheachadh na Gàidhlig ann am macOS: Ceum 5](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0161.png){: .post-image }
+![Suidheachadh na Gàidhlig ann am macOS: Ceum 5](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-05.png){: .post-image }
 
-![Calendar macOS anns a' Ghàidhlig](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0162.png){: .post-image }
+![Calendar macOS anns a' Ghàidhlig](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-06.png){: .post-image }
 
-![Cluicheadair VLC anns a' Ghàidhlig](https://raw.githubusercontent.com/MacMhicheil/atug/master/images/IMG_0163.png){: .post-image }
+![Cluicheadair VLC anns a' Ghàidhlig](2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos-img-07.png){: .post-image }
