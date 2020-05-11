@@ -1,15 +1,35 @@
 ---
-title: A' gluasad bho Wordpress gu Jekyll
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-02-17 18:00:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
+
+title: A' gluasad bho Wordpress gu Jekyll
+
+image: /images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
-- blog
-- naidheachdan
-tags: blog, GeidhUK, Naidheachdan Pinc, LCDTQ, Naidheachdan, ùrachadh, Jekyll, Wordpress
-comments: true
+    - blog
+    - naidheachdan
+
+tags:
+    - blog
+    - GeidhUK
+    - Naidheachdan Pinc
+    - LCDTQ
+    - Naidheachdan
+    - ùrachadh
+    - Jekyll
+    - Wordpress
+
 ---
 
 O chionn 2008 tha Geidh.uk air a bhith na bhlog Wordpress (a' ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
