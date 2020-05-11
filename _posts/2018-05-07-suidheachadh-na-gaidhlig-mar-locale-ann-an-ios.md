@@ -51,7 +51,7 @@ A-measg na h-applaidean Apple bidh an ceann-latha a’ nochdadh anns a’ Ghàid
 
 ![](/images/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios-img-07.png){: .post-image }
 
-![](/images/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios-img-08){: .post-image }
+![](/images/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios-img-08.png){: .post-image }
 
 ![](/images/2018-05-07-suidheachadh-na-gaidhlig-mar-locale-ann-an-ios-img-09.png){: .post-image }
 
