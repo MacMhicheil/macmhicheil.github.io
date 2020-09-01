@@ -10,7 +10,7 @@ Thòisich mi ag ionnsachadh na Gàidhlig nuair a bha mi nam oileanach aig Acadam
 
 Nuair a bha mi nam oileanach aig SMO cha robh mi eòlach air mòran Gàidheil LCDTQ+ eile agus mar sin chruthaich mi a’ bhuidheann-còmhraidh GayGaels air Bebo gus am biodh àite ann airson Gàidheil LCDTQ+ a bhith a’ conaltradh ri chèile. As dèidh seo chruthaich mi am blog naidheachd LCDTQ+ Geidh.uk (no Naidheachdan Pinc mar a bh’ air aig an àm).
 
-Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidheil.
+Ann an 2007 chruthaich mi [AbairThusa](https://web.archive.org/web/20130125063235/http://abairthusa.co.uk/) a bha na chiad lìon-sòisealta do Ghàidheil.
 
 ‘S ann à Inbhir Pheofharain a tha mi o thùs agus tha mi air a bhith a’ fuireach ann an Sìorrachd Rois cha mhòr fad mo bheatha.
 
